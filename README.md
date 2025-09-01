@@ -1,4 +1,4 @@
-# <img src="https://i.imgur.com/GvUktU5.png" width="30"/> AIOLists Stremio Addon
+# <img src="https://i.imgur.com/GvUktU5.png" width="30"/> AIOLists Stremio Addon (for arm64)
 
 AIOLists is a stateless open source list management addon for Stremio. The project originated from this [post](https://www.reddit.com/r/StremioAddons/comments/1kbfk67/concept_for_an_aiolist_addon/), since then I have continued development to add features I would personally want in a list management addon, and fixed bugs shared by the users.
 
